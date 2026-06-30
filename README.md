@@ -8,7 +8,8 @@ Lab notes, writeups, and exploit scripts from the PortSwigger Web Security Acade
 |-------|--------|------|
 | SQL Injection | Complete | 18/18 |
 | Authentication | Complete | 14/14 |
-| Access Control | In Progress | - |
+| Access Control | Complete | 13/13 |
+| Business Logic | In Progress | - |
 
 ## Contents
 
