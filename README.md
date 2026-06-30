@@ -13,7 +13,7 @@ Notes and concepts are maintained separately in [Web-Security](https://github.co
 | SQL Injection | Complete | 18 / 18 |
 | Authentication | Complete | 14 / 14 |
 | Access Control | Complete | 13 / 13 |
-| Business Logic | In Progress | — |
+| Business Logic | In Progress | - |
 
 ---
 
@@ -34,15 +34,15 @@ Python scripts written during Authentication labs to automate exploitation techn
 ## Tools Used
 
 - Burp Suite
-- Python — requests, threading, BeautifulSoup, hashlib, base64, json
+- Python - requests, threading, BeautifulSoup, hashlib, base64, json
 - Kali Linux
 
 ---
 
 ## Related
 
-- [Web-Security](https://github.com/faisalulde/Web-Security) — concepts, techniques, and payloads by topic
-- [security-writeups](https://github.com/faisalulde/security-writeups) — CTF writeups applying these techniques
+- [Web-Security](https://github.com/faisalulde/Web-Security) - concepts, techniques, and payloads by topic
+- [security-writeups](https://github.com/faisalulde/security-writeups) - CTF writeups applying these techniques
 
 ---
 
