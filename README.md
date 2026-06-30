@@ -13,7 +13,7 @@ Notes and concepts are maintained separately in [Web-Security](https://github.co
 | SQL Injection | Complete | 18 / 18 |
 | Authentication | Complete | 14 / 14 |
 | Access Control | Complete | 13 / 13 |
-| Business Logic | In Progress | - |
+| Business Logic | In Progress |   - |
 
 ---
 
