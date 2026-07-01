@@ -1,6 +1,6 @@
 # Access Control Labs
 
-**13 / 13 labs completed** — June 9–20, 2026
+**13 / 13 labs completed** — June 9-20, 2026
 
 ---
 
