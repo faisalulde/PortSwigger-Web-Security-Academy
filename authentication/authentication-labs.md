@@ -1,6 +1,6 @@
 # Authentication Labs
 
-**14 / 14 labs completed** — May 9–June 2, 2026
+**14 / 14 labs completed** — May 9-June 2, 2026
 
 ---
 
